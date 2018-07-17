@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Projects\Ch4-P6-FunWithStructures\Ch4-P6-FunWithStructures\bin\Debug\Ch4-P6-FunWithStructures.exe.config
+C:\Users\Lenovo\Documents\Projects\Ch4-P6-FunWithStructures\Ch4-P6-FunWithStructures\bin\Debug\Ch4-P6-FunWithStructures.exe
+C:\Users\Lenovo\Documents\Projects\Ch4-P6-FunWithStructures\Ch4-P6-FunWithStructures\bin\Debug\Ch4-P6-FunWithStructures.pdb
+C:\Users\Lenovo\Documents\Projects\Ch4-P6-FunWithStructures\Ch4-P6-FunWithStructures\obj\Debug\Ch4-P6-FunWithStructures.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\Ch4-P6-FunWithStructures\Ch4-P6-FunWithStructures\obj\Debug\Ch4-P6-FunWithStructures.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\Ch4-P6-FunWithStructures\Ch4-P6-FunWithStructures\obj\Debug\Ch4-P6-FunWithStructures.exe
+C:\Users\Lenovo\Documents\Projects\Ch4-P6-FunWithStructures\Ch4-P6-FunWithStructures\obj\Debug\Ch4-P6-FunWithStructures.pdb
